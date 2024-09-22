@@ -14,7 +14,7 @@ Para sugerencias sobre esta sección dirígete al [foro privado](https://github.
 
 Aunque hay una considerable literatura sobre JavaScript, un libro de referencia es **Eloquent JavaScript**:
 
-- [Eloquent JavaScript 4th edition (2024)](https://eloquentjavascript.net/)
+- [Eloquent JavaScript 4th edition (2024) - Online](https://eloquentjavascript.net/)
 - [Libro en español online - 3ª Edición](https://eloquentjs-es.thedojo.mx/) - Puedes encontrar más versiones en Internet
 - **Libro físico en Amazon**:
     - [en español - 3ª Edición ](https://www.amazon.es/JavaScript-elocuente-introducci%C3%B3n-moderna-programaci%C3%B3n/dp/8441549036)
