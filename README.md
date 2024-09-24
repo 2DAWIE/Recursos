@@ -25,3 +25,10 @@ Aunque hay una considerable literatura sobre JavaScript, un libro de referencia 
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
 - [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
+
+## Playground
+
+- [CodePen](https://codepen.io/)
+- [JSFiddle](https://jsfiddle.net/)
+- [MDN Playground](https://developer.mozilla.org/es/play)
+- [JS Playground](https://www.jsplayground.dev/)
