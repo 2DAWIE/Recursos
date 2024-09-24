@@ -19,3 +19,9 @@ Aunque hay una considerable literatura sobre JavaScript, un libro de referencia 
 - **Libro físico en Amazon**:
     - [en español - 3ª Edición ](https://www.amazon.es/JavaScript-elocuente-introducci%C3%B3n-moderna-programaci%C3%B3n/dp/8441549036)
     - [en inglés - 4ª Edición](https://www.amazon.es/Eloquent-JavaScript-4th-Introduction-Programming/dp/1718504101)
+
+## Repositorios en `GitHub`
+
+- [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+- [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
+- [You Don't Know JS Yet (book series) - 2nd Edition](https://github.com/getify/You-Dont-Know-JS)
