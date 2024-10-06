@@ -25,6 +25,7 @@ Aunque hay una considerable literatura sobre JavaScript, un libro de referencia 
   - **The Pragmatic Programmer**
       - [Amazon - Edición en español - 2022](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
       - [Amazon - Edición en inglés - 20th Anniversary Edition - 2019](https://www.amazon.es/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
+        > [Wikipedia](https://es.wikipedia.org/wiki/El_programador_pragm%C3%A1tico)
 
 ## Repositorios en `GitHub`
 
