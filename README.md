@@ -19,6 +19,12 @@ Aunque hay una considerable literatura sobre JavaScript, un libro de referencia 
 - **Libro físico en Amazon**:
     - [en español - 3ª Edición ](https://www.amazon.es/JavaScript-elocuente-introducci%C3%B3n-moderna-programaci%C3%B3n/dp/8441549036)
     - [en inglés - 4ª Edición](https://www.amazon.es/Eloquent-JavaScript-4th-Introduction-Programming/dp/1718504101)
+ 
+  ### Otros libros
+
+  - **The Pragmatic Programmer**
+      - [Amazon - Edición en español - 2022](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
+      - [Amazon - Edición en inglés - 20th Anniversary Edition - 2019](https://www.amazon.es/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
 
 ## Repositorios en `GitHub`
 
