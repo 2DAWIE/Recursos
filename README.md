@@ -12,7 +12,7 @@ Para sugerencias sobre esta sección dirígete al [foro privado](https://github.
 
 ## Bibliografía
 
-Aunque hay una considerable literatura sobre JavaScript, un libro de referencia es **Eloquent JavaScript**:
+Aunque hay una considerable literatura sobre `JavaScript`, un libro de referencia es **Eloquent JavaScript**:
 
 - [Eloquent JavaScript 4th edition (2024) - Online](https://eloquentjavascript.net/)
 - [Libro en español online - 4ª Edición](https://www.eloquentjavascript.es/)
