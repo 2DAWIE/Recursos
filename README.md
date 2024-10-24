@@ -23,14 +23,19 @@ Aunque hay una considerable literatura sobre `JavaScript`, un libro de referenci
 - **Libro físico en Amazon**:
     - [en español - 3ª Edición ](https://www.amazon.es/JavaScript-elocuente-introducci%C3%B3n-moderna-programaci%C3%B3n/dp/8441549036)
     - [en inglés - 4ª Edición](https://www.amazon.es/Eloquent-JavaScript-4th-Introduction-Programming/dp/1718504101)
+
+Más humilde pero 100% en español:
+
+- **JavaScript Essentials: De 0 a Experto** - [Papel](https://www.amazon.es/JavaScript-Essentialsl-Jes%C3%BAs-Quintana-Esquiliche/dp/B0DDXPTZ8M) - [Kindle](https://www.amazon.es/JavaScript-Essentials-Jes%C3%BAs-Quintana-Esquiliche-ebook/dp/B0D2BDTDLQ)
  
-  ### Otros libros
+### Otros libros
 
   - **The Pragmatic Programmer**
       - [Amazon - Edición en español - 2022](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
       - [Amazon - Edición en inglés - 20th Anniversary Edition - 2019](https://www.amazon.es/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052)
 
         > [Wikipedia](https://es.wikipedia.org/wiki/El_programador_pragm%C3%A1tico)
+  - **Relatos cortos para entender la programación: Descubre una manera original de entender aquellos conceptos claves para entender la lógica de la programación informática** - [Papel](https://www.amazon.es/Relatos-cortos-para-entender-programaci%C3%B3n/dp/1980223572) - [Kindle](https://www.amazon.es/Relatos-cortos-para-entender-programaci%C3%B3n-ebook/dp/B079P4SK63)
 
 ## Repositorios en `GitHub`
 
