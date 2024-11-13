@@ -4,6 +4,10 @@
 
 Para sugerencias sobre esta sección dirígete al [foro privado](https://github.com/orgs/2DAWIE/discussions) (acceso exclusivo para los miembros del grupo)
 
+## Presentaciones transversales
+
+:construction: <https://presentacionesdaw.netlify.app/>  
+
 ## En la red
 
 - [W3Schools](https://www.w3schools.com/js/) - En inglés
