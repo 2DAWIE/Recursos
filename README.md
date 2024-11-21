@@ -13,6 +13,7 @@ Para sugerencias sobre esta sección dirígete al [foro privado](https://github.
 - [W3Schools](https://www.w3schools.com/js/) - En inglés
 - [MDN Web Docs](https://developer.mozilla.org/es/docs/Web/JavaScript) - En español
 - [javascript.info](https://es.javascript.info/) - En español
+- [**Freelancermap**: Stack tecnológicos: ¿Qué son los tech stack y cómo se construyen?](https://www.freelancermap.com/blog/es/tech-stack-tecnologico/)
 
 ## Bibliografía
 
