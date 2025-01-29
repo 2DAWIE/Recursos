@@ -6,7 +6,7 @@ Para sugerencias sobre esta sección dirígete al [foro privado](https://github.
 
 ## Presentaciones transversales
 
-:construction: <https://presentacionesdaw.netlify.app/>  
+:construction: <https://presentacionesdaw.netlify.app/> :construction: 
 
 ## En la red
 
@@ -54,3 +54,9 @@ Más humilde pero 100% en español:
 - [JSFiddle](https://jsfiddle.net/)
 - [MDN Playground](https://developer.mozilla.org/es/play)
 - [JS Playground](https://www.jsplayground.dev/)
+
+## Artículos
+
+- [JavaScript modules - `MDN`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+- [The JavaScript Modules Handbook – Complete Guide to ES Modules and Module Bundlers - `freeCodeCamp `](https://www.freecodecamp.org/news/javascript-es-modules-and-module-bundlers/)
+- [Qué es `REACT` - `MANZ.DEV`](https://lenguajejs.com/react/introduccion/que-es-react/)
